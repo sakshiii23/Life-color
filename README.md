@@ -6,3 +6,10 @@ red
 yellow
 green
 white
+snow
+rain
+storm
+hailstorm
+ice
+skates
+snowman
