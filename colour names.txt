@@ -10,3 +10,6 @@ mustard
 turquoise
 voilet
 sea green
+hi i want to add few more colors (deeksha)
+xyz
+abc
