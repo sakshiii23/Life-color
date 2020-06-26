@@ -1,6 +1,5 @@
 blue
 black
-brown
 basic
 olive
 mint
@@ -12,4 +11,3 @@ voilet
 sea green
 hi i want to add few more colors (deeksha)
 xyz
-abc
