@@ -8,3 +8,5 @@ sea blue
 teal green
 mustard
 turquoise
+voilet
+sea green
